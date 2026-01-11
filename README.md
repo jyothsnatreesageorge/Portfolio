@@ -27,7 +27,3 @@ git clone https://github.com/jyothsnatreesageorge/Portfolio.git
 cd Portfolio
 npm install
 npm run dev
-
-## 🚀 Deployment
-Vercel for production hosting
-GitHub Pages using gh-pages
